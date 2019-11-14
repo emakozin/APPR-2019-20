@@ -1,4 +1,5 @@
 # 2. faza: Uvoz podatkov
+#2.faza
 
 sl <- locale("sl", decimal_mark=",", grouping_mark=".")
 
