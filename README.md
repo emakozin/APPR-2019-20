@@ -2,13 +2,23 @@
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
-* [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
-* [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
+* [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/emakozin/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
+* [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/emakozin/APPR-2019-20/master?urlpath=rstudio) RStudio
 
 ## Tematika
 
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+
+
+Analiza osnovnega glasbenega in plesnega izobraževanja
+
+vir podatkov: SURS
+https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__05_glasbeno_izobraz__05_09096_osn_glasb_izobraz_vkl/?tablelist=true
+
+
+cilj: narediti analizo izobraževanja v glasbi in plesu glede na spol, starost, predmetu (različna glasbila, plesi in petje),vrsto šole, občino zavoda in statistično regijo
+
 
 ## Program
 
