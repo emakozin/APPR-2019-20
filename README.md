@@ -5,7 +5,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/emakozin/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/emakozin/APPR-2019-20/master?urlpath=rstudio) RStudio
 
-## Tematika : Analiza osnovnega glasbenega in plesnega izobaževanja
+## Tematika : Analiza osnovnega glasbenega in plesnega izobraževanja
 
  
 Analizirala bom osnovno glasbeno izobraževanje po Sloveniji, zanima me, kje je največ udeležencev v posameznem programu po starosti in statistčni regiji ter vrsti zavoda. Pogledala bom tudi, kateri predmet obiskuje največ ljudi glede na spol. Podatki so iz obdobja od šolskega leta 2016/17 pa do 2018/19, pridobila pa sem jih na strani Statističnega urada Republike Slovenije v CSV, HTML, JSON in XLSX obliki. ([povezava](https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__05_glasbeno_izobraz__05_09096_osn_glasb_izobraz_vkl/?tablelist=true))
