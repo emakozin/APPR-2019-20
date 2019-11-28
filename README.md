@@ -7,17 +7,15 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+#Analiza osnovnega glasbenega in plesnega izobraževanja
+ 
+Analizirala bom osnovno glasbeno izobraževanje po Sloveniji, zanima me, kje je največ udeležencev v posameznem programu po starosti in statistčni regiji ter vrsti zavoda. Pogledala bom tudi, kateri predmet obiskuje največ ljudi glede na spol. Podatki so iz obdobja od šolskega leta 2016/17 pa do 2018/19, pridobila pa sem jh na strani Statističnega urada Republike Slovenije v CSV, HTML, JSON in XLSX obliki. [povezava](https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__05_glasbeno_izobraz__05_09096_osn_glasb_izobraz_vkl/?tablelist=true)
 
+Seznam tabel:
 
-Analiza osnovnega glasbenega in plesnega izobraževanja
+* TABELA 1:  število udeležencev programov po statistični regiji in občini zavoda, vrsti zavoda ter starosti v šolskem letu
 
-vir podatkov: SURS
-https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__09_izobrazevanje__05_glasbeno_izobraz__05_09096_osn_glasb_izobraz_vkl/?tablelist=true
-
-
-cilj: narediti analizo izobraževanja v glasbi in plesu glede na spol, starost, predmetu (različna glasbila, plesi in petje),vrsto šole, občino zavoda in statistično regijo
+* TABELA 2: udeleženci izobraževanja po predmetih in spolu v šolskem letu
 
 
 ## Program
